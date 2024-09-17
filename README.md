@@ -1,0 +1,1 @@
+repro for https://github.com/renovatebot/renovate/discussions/31445
